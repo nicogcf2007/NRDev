@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/NRDev/static/css/main.4566f422.css",
-    "main.js": "/NRDev/static/js/main.1dca4b03.js",
+    "main.css": "/NRDev/static/css/main.d0bcec02.css",
+    "main.js": "/NRDev/static/js/main.7d766ac2.js",
     "static/js/453.bf22149a.chunk.js": "/NRDev/static/js/453.bf22149a.chunk.js",
     "static/media/rtt.mp4": "/NRDev/static/media/rtt.1cc5cb0e161d7ca6524c.mp4",
     "static/media/colcambios.png": "/NRDev/static/media/colcambios.34f42605e82875bb7b4e.png",
     "static/media/transcriptions.png": "/NRDev/static/media/transcriptions.44450b4436f5846ae1b7.png",
     "static/media/rtt.png": "/NRDev/static/media/rtt.9db7647fe0da6be47436.png",
+    "static/media/rag.png": "/NRDev/static/media/rag.3ab52b8c39ff0c0dfa8b.png",
     "index.html": "/NRDev/index.html",
-    "main.4566f422.css.map": "/NRDev/static/css/main.4566f422.css.map",
-    "main.1dca4b03.js.map": "/NRDev/static/js/main.1dca4b03.js.map",
+    "main.d0bcec02.css.map": "/NRDev/static/css/main.d0bcec02.css.map",
+    "main.7d766ac2.js.map": "/NRDev/static/js/main.7d766ac2.js.map",
     "453.bf22149a.chunk.js.map": "/NRDev/static/js/453.bf22149a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4566f422.css",
-    "static/js/main.1dca4b03.js"
+    "static/css/main.d0bcec02.css",
+    "static/js/main.7d766ac2.js"
   ]
 }
